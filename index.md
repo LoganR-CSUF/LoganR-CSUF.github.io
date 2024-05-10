@@ -5,7 +5,7 @@ My name is Logan Robertson and im a student at [Cal State Fullerton](http://www.
 
 ## My Projects
 
-My Github page is https://loganr-csuf.github.io./
+My Github page is <https://loganr-csuf.github.io./>
 
 
 ## CPSC 120
